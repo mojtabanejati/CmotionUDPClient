@@ -35,7 +35,6 @@ public class udpclient extends Activity {
     private StringBuilder stringBuilder = new StringBuilder();
 
 
-
     /**
      * Called when the activity is first created.
      */
